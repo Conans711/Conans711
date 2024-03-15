@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Conans711
-- 👀 I’m interested in using and learning about raspberry pi systems  
-- 🌱 I’m learning kali linux as is.
-- 💞️ I’m looking to collaborate on running more networks
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 look,out below! 
+- 📫 How to reach me (applejuise12@gmail.com) 
+- 😄 Pronouns: Fun Free adventure 
+- ⚡ Fun fact: I will be updating pics and new new soon
+- 
 
 <!---
 Conans711/Conans711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
